@@ -1,0 +1,12 @@
+.button:hover,
+.button-slc:hover{
+  background-color: rgb(201, 25, 25);
+}
+.calcu-content:hover{
+  background-image: linear-gradient(135deg, #93a5cf 10%, #ebc98a 100%);
+  opacity: 0.8;
+}
+h3.tl-head-h3:hover{
+  color: #ff4d6d;
+  cursor: default;
+}
